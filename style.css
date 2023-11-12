@@ -1,0 +1,13 @@
+.btn {
+    width: 35%;
+    margin-left: 1.5rem;
+}
+
+.bi {
+    font-size: 5rem !important;
+    font-weight: bold;
+    color: orangered;
+    position: absolute;
+    left: 45%;
+    top: 15%;
+}
